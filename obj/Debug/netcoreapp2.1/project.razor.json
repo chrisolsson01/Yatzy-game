@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\liam.olssonlilliero\\Desktop\\Soft Dev\\Projetvecka3.0\\Version2\\Version2.csproj",
+  "TargetFramework": "netcoreapp2.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
